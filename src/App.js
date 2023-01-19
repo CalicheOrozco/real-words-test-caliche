@@ -13,7 +13,7 @@ function App() {
   const selectedBtn =
     "text-white text-center p-2 w-24 cursor-pointer rounded-xl bg-orange-600 font-bold rounded-lg";
   const unselectedBtn =
-    "text-white text-center p-2 w-24 cursor-pointer rounded-xl border-2 border-orange-900 hover:bg-orange-600 font-bold rounded-lg";
+    "text-white text-center p-2 w-24 cursor-pointer rounded-xl border-2 border-orange-900 lg:hover:bg-orange-600 font-bold rounded-lg";
   const correctAnswer =
     "text-white text-center p-2 w-24 cursor-pointer rounded-xl bg-green-400 font-bold rounded-lg";
   const wrongAnswer =
